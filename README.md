@@ -5,7 +5,7 @@ the streaming API at once requires some processing on your end.
 
 This module implements the key part of that post-processing: checking whether a
 tweet matches a given value for the `track` parameter of the Twitter streaming
-API. Twitter's documentation for this parameter is [here](https://dev.twitter.com/streaming/overview/request-parameters#track).
+API. Twitter's documentation for this parameter is [here](https://dev.twitter.com/streaming/overview/request-parameters#track), and I've backed it up [here](official_docs.md).
 
 ## Usage
 ```js

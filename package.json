@@ -24,5 +24,8 @@
   "homepage": "https://github.com/pgarrison/tweet-matches#readme",
   "devDependencies": {
     "twit": "^2.2.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2"
   }
 }

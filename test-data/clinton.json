@@ -1,0 +1,3558 @@
+[
+  {
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 17 11:33:50 +0000 2016",
+      "id": 799213954190950400,
+      "id_str": "799213954190950400",
+      "text": "I pomyśleć, że ktoś długo nad nią pracował by można ją było w ogóle ludziom pokazać. https://t.co/AJnum0b0vw",
+      "display_text_range": [
+        0,
+        84
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 158809114,
+        "id_str": "158809114",
+        "name": "Irena Szafrańska",
+        "screen_name": "ISzafranska",
+        "location": "Lublin, Poland",
+        "url": null,
+        "description": "Komentuję doraźnie, pisuję czasami, myślę zawsze.",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13597,
+        "friends_count": 933,
+        "listed_count": 108,
+        "favourites_count": 42717,
+        "statuses_count": 168382,
+        "created_at": "Wed Jun 23 18:19:02 +0000 2010",
+        "utc_offset": 3600,
+        "time_zone": "Warsaw",
+        "geo_enabled": true,
+        "lang": "pl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738107241346310144/7KQNJAf4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738107241346310144/7KQNJAf4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158809114/1356715775",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 799212583211372500,
+      "quoted_status_id_str": "799212583211372544",
+      "quoted_status": {
+        "created_at": "Thu Nov 17 11:28:23 +0000 2016",
+        "id": 799212583211372500,
+        "id_str": "799212583211372544",
+        "text": "Ojojoj - Przegra twarz - nie pokazujcie tego dzieciom!\nCo się stało z naszą duszeńką?\nhttps://t.co/ki6mzIa86y https://t.co/lDdzo0fwh0",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 225719591,
+          "id_str": "225719591",
+          "name": "Mirosław Bańkowski",
+          "screen_name": "mirekb56",
+          "location": null,
+          "url": null,
+          "description": null,
+          "protected": false,
+          "verified": false,
+          "followers_count": 930,
+          "friends_count": 1088,
+          "listed_count": 12,
+          "favourites_count": 5076,
+          "statuses_count": 37684,
+          "created_at": "Sun Dec 12 08:25:44 +0000 2010",
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "9AE4E8",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+          "profile_background_tile": false,
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "BDDCAD",
+          "profile_sidebar_fill_color": "DDFFCC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/724580899032014848/ZyfOF3W8_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/724580899032014848/ZyfOF3W8_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/225719591/1354102258",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 7,
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/ki6mzIa86y",
+              "expanded_url": "https://theconservativetreehouse.com/2016/11/16/wow-health-collapsing-hillary-clinton-makes-first-public-appearance-video/",
+              "display_url": "theconservativetreehouse.com/2016/11/16/wow…",
+              "indices": [
+                86,
+                109
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 799211770506264600,
+              "id_str": "799211770506264576",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+              "url": "https://t.co/lDdzo0fwh0",
+              "display_url": "pic.twitter.com/lDdzo0fwh0",
+              "expanded_url": "https://twitter.com/mirekb56/status/799212583211372544/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 640,
+                  "h": 335,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 640,
+                  "h": 335,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 640,
+                  "h": 335,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 799211770506264600,
+              "id_str": "799211770506264576",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+              "url": "https://t.co/lDdzo0fwh0",
+              "display_url": "pic.twitter.com/lDdzo0fwh0",
+              "expanded_url": "https://twitter.com/mirekb56/status/799212583211372544/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 640,
+                  "h": 335,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 640,
+                  "h": 335,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 640,
+                  "h": 335,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "pl"
+      },
+      "is_quote_status": true,
+      "retweet_count": 5,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/AJnum0b0vw",
+            "expanded_url": "https://twitter.com/mirekb56/status/799212583211372544",
+            "display_url": "twitter.com/mirekb56/statu…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "pl"
+    },
+    "quoted_status_id": 799212583211372500,
+    "quoted_status_id_str": "799212583211372544",
+    "quoted_status": {
+      "created_at": "Thu Nov 17 11:28:23 +0000 2016",
+      "id": 799212583211372500,
+      "id_str": "799212583211372544",
+      "text": "Ojojoj - Przegra twarz - nie pokazujcie tego dzieciom!\nCo się stało z naszą duszeńką?\nhttps://t.co/ki6mzIa86y https://t.co/lDdzo0fwh0",
+      "display_text_range": [
+        0,
+        109
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 225719591,
+        "id_str": "225719591",
+        "name": "Mirosław Bańkowski",
+        "screen_name": "mirekb56",
+        "location": null,
+        "url": null,
+        "description": null,
+        "protected": false,
+        "verified": false,
+        "followers_count": 930,
+        "friends_count": 1088,
+        "listed_count": 12,
+        "favourites_count": 5076,
+        "statuses_count": 37684,
+        "created_at": "Sun Dec 12 08:25:44 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724580899032014848/ZyfOF3W8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724580899032014848/ZyfOF3W8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/225719591/1354102258",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/ki6mzIa86y",
+            "expanded_url": "https://theconservativetreehouse.com/2016/11/16/wow-health-collapsing-hillary-clinton-makes-first-public-appearance-video/",
+            "display_url": "theconservativetreehouse.com/2016/11/16/wow…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 799211770506264600,
+            "id_str": "799211770506264576",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+            "url": "https://t.co/lDdzo0fwh0",
+            "display_url": "pic.twitter.com/lDdzo0fwh0",
+            "expanded_url": "https://twitter.com/mirekb56/status/799212583211372544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 640,
+                "h": 335,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 335,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 335,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 799211770506264600,
+            "id_str": "799211770506264576",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cxde3vFWQAAGq-0.jpg",
+            "url": "https://t.co/lDdzo0fwh0",
+            "display_url": "pic.twitter.com/lDdzo0fwh0",
+            "expanded_url": "https://twitter.com/mirekb56/status/799212583211372544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 640,
+                "h": 335,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 335,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 335,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "pl"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/AJnum0b0vw",
+          "expanded_url": "https://twitter.com/mirekb56/status/799212583211372544",
+          "display_url": "twitter.com/mirekb56/statu…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ISzafranska",
+          "name": "Irena Szafrańska",
+          "id": 158809114,
+          "id_str": "158809114",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pl",
+    "timestamp_ms": "1479384028022"
+  }
+  {
+    "created_at": "Thu Nov 17 12:06:04 +0000 2016",
+    "id": 799222069540122600,
+    "id_str": "799222069540122624",
+    "text": "Are you kidding me?!? https://t.co/k6s3C5gOgN",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 386215505,
+      "id_str": "386215505",
+      "name": "Janet Johnson",
+      "screen_name": "JJohnsonLaw",
+      "location": "State of denial",
+      "url": null,
+      "description": "I'm still with her",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4885,
+      "friends_count": 1015,
+      "listed_count": 125,
+      "favourites_count": 47657,
+      "statuses_count": 89455,
+      "created_at": "Thu Oct 06 21:26:40 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/746790092929400832/Or6YYADm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/746790092929400832/Or6YYADm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/386215505/1478985309",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 799173559142580200,
+    "quoted_status_id_str": "799173559142580224",
+    "quoted_status": {
+      "created_at": "Thu Nov 17 08:53:19 +0000 2016",
+      "id": 799173559142580200,
+      "id_str": "799173559142580224",
+      "text": "So Lewandowski says Comey called him up to alert him that he was looking at the Abedin emails.… https://t.co/rkzr4VxOHq",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7794142,
+        "id_str": "7794142",
+        "name": "digby",
+        "screen_name": "digby56",
+        "location": "Santa Monica",
+        "url": "http://digbysblog.blogspot.com",
+        "description": "DFH/blogger/humanoid writer for @Salon",
+        "protected": false,
+        "verified": false,
+        "followers_count": 32771,
+        "friends_count": 1084,
+        "listed_count": 1472,
+        "favourites_count": 309,
+        "statuses_count": 40895,
+        "created_at": "Sun Jul 29 02:17:49 +0000 2007",
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876878986/glasses_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876878986/glasses_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7794142/1461960943",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "So Lewandowski says Comey called him up to alert him that he was looking at the Abedin emails. \n\nhttps://t.co/BYrNeuD7pi https://t.co/wcGGUQ9LDD",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/BYrNeuD7pi",
+              "expanded_url": "http://www.telegraph.co.uk/news/2016/11/17/fbis-decision-to-reopen-clinton-email-probe-enabled-donald-trump/",
+              "display_url": "telegraph.co.uk/news/2016/11/1…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 799173420801925100,
+              "id_str": "799173420801925120",
+              "indices": [
+                121,
+                144
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "url": "https://t.co/wcGGUQ9LDD",
+              "display_url": "pic.twitter.com/wcGGUQ9LDD",
+              "expanded_url": "http://twitter.com/digby56/status/799173559142580224/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 799173420801925100,
+              "id_str": "799173420801925120",
+              "indices": [
+                121,
+                144
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "url": "https://t.co/wcGGUQ9LDD",
+              "display_url": "pic.twitter.com/wcGGUQ9LDD",
+              "expanded_url": "http://twitter.com/digby56/status/799173559142580224/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "retweet_count": 316,
+      "favorite_count": 178,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/rkzr4VxOHq",
+            "expanded_url": "https://twitter.com/i/web/status/799173559142580224",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/k6s3C5gOgN",
+          "expanded_url": "https://twitter.com/digby56/status/799173559142580224",
+          "display_url": "twitter.com/digby56/status…",
+          "indices": [
+            22,
+            45
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479384364863"
+  },
+  {
+    "created_at": "Thu Nov 17 12:19:39 +0000 2016",
+    "id": 799225486287261700,
+    "id_str": "799225486287261696",
+    "text": "RT @digby56: So Lewandowski says Comey called him up to alert him that he was looking at the Abedin emails.… ",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23531311,
+      "id_str": "23531311",
+      "name": "debora",
+      "screen_name": "sierrarisings1",
+      "location": "New Jersey, USA",
+      "url": null,
+      "description": "stylist, teacher, humanitarian",
+      "protected": false,
+      "verified": false,
+      "followers_count": 178,
+      "friends_count": 338,
+      "listed_count": 11,
+      "favourites_count": 5788,
+      "statuses_count": 4292,
+      "created_at": "Tue Mar 10 00:36:26 +0000 2009",
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68122870/x8de1daa8e5fb18857bb3819d21a87f2.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68122870/x8de1daa8e5fb18857bb3819d21a87f2.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796461250934927360/Es-LoZ8L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796461250934927360/Es-LoZ8L_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23531311/1478552290",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 17 08:53:19 +0000 2016",
+      "id": 799173559142580200,
+      "id_str": "799173559142580224",
+      "text": "So Lewandowski says Comey called him up to alert him that he was looking at the Abedin emails.… https://t.co/rkzr4VxOHq",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7794142,
+        "id_str": "7794142",
+        "name": "digby",
+        "screen_name": "digby56",
+        "location": "Santa Monica",
+        "url": "http://digbysblog.blogspot.com",
+        "description": "DFH/blogger/humanoid writer for @Salon",
+        "protected": false,
+        "verified": false,
+        "followers_count": 32771,
+        "friends_count": 1084,
+        "listed_count": 1473,
+        "favourites_count": 309,
+        "statuses_count": 40895,
+        "created_at": "Sun Jul 29 02:17:49 +0000 2007",
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876878986/glasses_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876878986/glasses_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7794142/1461960943",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "So Lewandowski says Comey called him up to alert him that he was looking at the Abedin emails. \n\nhttps://t.co/BYrNeuD7pi https://t.co/wcGGUQ9LDD",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/BYrNeuD7pi",
+              "expanded_url": "http://www.telegraph.co.uk/news/2016/11/17/fbis-decision-to-reopen-clinton-email-probe-enabled-donald-trump/",
+              "display_url": "telegraph.co.uk/news/2016/11/1…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 799173420801925100,
+              "id_str": "799173420801925120",
+              "indices": [
+                121,
+                144
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "url": "https://t.co/wcGGUQ9LDD",
+              "display_url": "pic.twitter.com/wcGGUQ9LDD",
+              "expanded_url": "http://twitter.com/digby56/status/799173559142580224/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 799173420801925100,
+              "id_str": "799173420801925120",
+              "indices": [
+                121,
+                144
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxc7_fTVIAASX22.jpg",
+              "url": "https://t.co/wcGGUQ9LDD",
+              "display_url": "pic.twitter.com/wcGGUQ9LDD",
+              "expanded_url": "http://twitter.com/digby56/status/799173559142580224/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 617,
+                  "h": 337,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "retweet_count": 373,
+      "favorite_count": 217,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/rkzr4VxOHq",
+            "expanded_url": "https://twitter.com/i/web/status/799173559142580224",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "",
+          "expanded_url": null,
+          "indices": [
+            109,
+            109
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "digby56",
+          "name": "digby",
+          "id": 7794142,
+          "id_str": "7794142",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385179479"
+  },
+  {
+    "created_at": "Thu Nov 17 12:20:18 +0000 2016",
+    "id": 799225649919619100,
+    "id_str": "799225649919619072",
+    "text": "@IngrahamAngle Hillary Clinton should 100% be investigated. If true that she has again done something wrong, it needs to be prosecuted.",
+    "display_text_range": [
+      15,
+      135
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 799221509172494300,
+    "in_reply_to_status_id_str": "799221509172494337",
+    "in_reply_to_user_id": 50769180,
+    "in_reply_to_user_id_str": "50769180",
+    "in_reply_to_screen_name": "IngrahamAngle",
+    "user": {
+      "id": 798705695784923100,
+      "id_str": "798705695784923136",
+      "name": "Carny Broome",
+      "screen_name": "cmb5104",
+      "location": null,
+      "url": null,
+      "description": null,
+      "protected": false,
+      "verified": false,
+      "followers_count": 3,
+      "friends_count": 0,
+      "listed_count": 0,
+      "favourites_count": 0,
+      "statuses_count": 1,
+      "created_at": "Wed Nov 16 01:54:11 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "IngrahamAngle",
+          "name": "Laura Ingraham",
+          "id": 50769180,
+          "id_str": "50769180",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385218492"
+  },
+  {
+    "created_at": "Thu Nov 17 12:23:16 +0000 2016",
+    "id": 799226394614054900,
+    "id_str": "799226394614054912",
+    "text": "RT @chrislhayes: Those stories are actually, um. true. Yes they are ammunition to one side, but the guy who ran the CIA *really* did endors…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 233322321,
+      "id_str": "233322321",
+      "name": "Joe Boko",
+      "screen_name": "ChefJoeBoko",
+      "location": "Bayside, NY",
+      "url": null,
+      "description": "Isles, Mets, Knicks, Jets..where did I go wrong?! Man Untd, Real Madrid, Bayern, AC Milan, PSG ease the pain... #POI is crack! I cook too..but you knew that",
+      "protected": false,
+      "verified": false,
+      "followers_count": 243,
+      "friends_count": 1648,
+      "listed_count": 28,
+      "favourites_count": 1,
+      "statuses_count": 21674,
+      "created_at": "Sun Jan 02 23:01:43 +0000 2011",
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/383801411/bossy-ny-islanders.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/383801411/bossy-ny-islanders.jpg",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796409021863526400/xFZNdiir_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796409021863526400/xFZNdiir_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/233322321/1478713683",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 16 22:39:25 +0000 2016",
+      "id": 799019065943740400,
+      "id_str": "799019065943740424",
+      "text": "Those stories are actually, um. true. Yes they are ammunition to one side, but the guy who ran the CIA *really* did endorse Clinton. /3",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 799018915435335700,
+      "in_reply_to_status_id_str": "799018915435335685",
+      "in_reply_to_user_id": 4207961,
+      "in_reply_to_user_id_str": "4207961",
+      "in_reply_to_screen_name": "chrislhayes",
+      "user": {
+        "id": 4207961,
+        "id_str": "4207961",
+        "name": "Christopher Hayes",
+        "screen_name": "chrislhayes",
+        "location": "Brooklyn",
+        "url": "http://allin.msnbc.com",
+        "description": "Host of All In with Chris Hayes on MSNBC, Weeknights at 8pm. Editor at Large at The Nation. Cubs fan.\n\nInstagram: chrislhayes\n\nFB: https://t.co/niNbW3BZcv",
+        "protected": false,
+        "verified": true,
+        "followers_count": 778430,
+        "friends_count": 951,
+        "listed_count": 13158,
+        "favourites_count": 5995,
+        "statuses_count": 76331,
+        "created_at": "Wed Apr 11 16:43:58 +0000 2007",
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/552711304/tote_twitterskin.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/552711304/tote_twitterskin.jpg",
+        "profile_background_tile": false,
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499446228/MSNBC_Headshot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499446228/MSNBC_Headshot_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4207961/1412600167",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "01a9a39529b27f36",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+        "place_type": "city",
+        "name": "Manhattan",
+        "full_name": "Manhattan, NY",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.026675,
+                40.683935
+              ],
+              [
+                -74.026675,
+                40.877483
+              ],
+              [
+                -73.910408,
+                40.877483
+              ],
+              [
+                -73.910408,
+                40.683935
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 75,
+      "favorite_count": 300,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "chrislhayes",
+          "name": "Christopher Hayes",
+          "id": 4207961,
+          "id_str": "4207961",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385396041"
+  },
+  {
+    "created_at": "Thu Nov 17 12:23:50 +0000 2016",
+    "id": 799226540794015700,
+    "id_str": "799226540794015744",
+    "text": "Easy to say. \n\nWhere was his sense of outrage when he found out he was rigged out of the primaries?\n\nHis \"outrage\"… https://t.co/SXNFGvLvbF",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1275343290,
+      "id_str": "1275343290",
+      "name": "Genghis",
+      "screen_name": "Bentley1899",
+      "location": "Mt. Yamantau",
+      "url": null,
+      "description": "Kinda have feelings | Kinda heartless | Putinist | Open-minded | Virgo | Milanista | Tweets random sh!t..RTs ≠ Endorsements and oh...Valar Morghulis ✌",
+      "protected": false,
+      "verified": false,
+      "followers_count": 579,
+      "friends_count": 972,
+      "listed_count": 9,
+      "favourites_count": 852,
+      "statuses_count": 11825,
+      "created_at": "Sun Mar 17 16:10:35 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/670388712317038594/Qq8kEH0m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/670388712317038594/Qq8kEH0m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275343290/1448668095",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00019dd72ef314fe",
+      "url": "https://api.twitter.com/1.1/geo/id/00019dd72ef314fe.json",
+      "place_type": "city",
+      "name": "Asaba",
+      "full_name": "Asaba, Nigeria",
+      "country_code": "NG",
+      "country": "Nigeria",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.664861,
+              6.159425
+            ],
+            [
+              6.664861,
+              6.243014
+            ],
+            [
+              6.755652,
+              6.243014
+            ],
+            [
+              6.755652,
+              6.159425
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 799222414525677600,
+    "quoted_status_id_str": "799222414525677568",
+    "quoted_status": {
+      "created_at": "Thu Nov 17 12:07:27 +0000 2016",
+      "id": 799222414525677600,
+      "id_str": "799222414525677568",
+      "text": "Whenever someone tells you to compromise, something wrong to you is normal, watch this. In whichever country you ar… https://t.co/7bXSir0flV",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 115381807,
+        "id_str": "115381807",
+        "name": "#Bernie2020",
+        "screen_name": "Datoism",
+        "location": "Utopia",
+        "url": "https://storify.com/Datoism",
+        "description": "Sin.Repent.Repeat. 99% tweets are copied. Source: Reddit. Teetotaler. Egalitarian. Rational. Temporal Agnostic.",
+        "protected": false,
+        "verified": false,
+        "followers_count": 33785,
+        "friends_count": 24577,
+        "listed_count": 255,
+        "favourites_count": 36039,
+        "statuses_count": 25056,
+        "created_at": "Thu Feb 18 13:41:25 +0000 2010",
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/875228358/f9e63c47789c61b05e937caa58d9859b.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/875228358/f9e63c47789c61b05e937caa58d9859b.png",
+        "profile_background_tile": true,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "403523",
+        "profile_text_color": "2770C4",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707252458511175680/foNAdPEy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707252458511175680/foNAdPEy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115381807/1468996635",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 746731387575689200,
+      "quoted_status_id_str": "746731387575689217",
+      "is_quote_status": true,
+      "extended_tweet": {
+        "full_text": "Whenever someone tells you to compromise, something wrong to you is normal, watch this. In whichever country you are. https://t.co/4pqcrxDxeC",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/4pqcrxDxeC",
+              "expanded_url": "https://twitter.com/BernieSanders/status/746731387575689217",
+              "display_url": "twitter.com/BernieSanders/…",
+              "indices": [
+                118,
+                141
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/7bXSir0flV",
+            "expanded_url": "https://twitter.com/i/web/status/799222414525677568",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "Easy to say. \n\nWhere was his sense of outrage when he found out he was rigged out of the primaries?\n\nHis \"outrage\" was to endorse Clinton. https://t.co/nXx1mz3Mvg",
+      "display_text_range": [
+        0,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/nXx1mz3Mvg",
+            "expanded_url": "https://twitter.com/Datoism/status/799222414525677568",
+            "display_url": "twitter.com/Datoism/status…",
+            "indices": [
+              139,
+              162
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/SXNFGvLvbF",
+          "expanded_url": "https://twitter.com/i/web/status/799226540794015744",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385430893"
+  },
+  {
+    "created_at": "Thu Nov 17 12:24:20 +0000 2016",
+    "id": 799226666673270800,
+    "id_str": "799226666673270784",
+    "text": "RT @JaredWyand: Why would she need a pardon if she didn't commit a crime @RevJJackson? Unless...unless you all knowingly campaigned… ",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2818371775,
+      "id_str": "2818371775",
+      "name": "Pinnacle Cascade",
+      "screen_name": "PinnacleCascade",
+      "location": "United States",
+      "url": "http://www.netzaritimes.com",
+      "description": "Author of Exposing Lucifer on Amazon, follows Yeshua, amateur photographer, diehard patriot, unapologetic Trump supporter.",
+      "protected": false,
+      "verified": false,
+      "followers_count": 684,
+      "friends_count": 675,
+      "listed_count": 22,
+      "favourites_count": 26600,
+      "statuses_count": 10690,
+      "created_at": "Thu Sep 18 23:36:19 +0000 2014",
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/519671535351508993/_M81j-jR_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/519671535351508993/_M81j-jR_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2818371775/1415730684",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 17 01:51:34 +0000 2016",
+      "id": 799067422200315900,
+      "id_str": "799067422200315905",
+      "text": "Why would she need a pardon if she didn't commit a crime @RevJJackson? Unless...unless you all knowingly campaigned… https://t.co/iK7O6m9caE",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 328878936,
+        "id_str": "328878936",
+        "name": "Jared Wyand 🇺🇸",
+        "screen_name": "JaredWyand",
+        "location": null,
+        "url": "http://ProjectPurge.com",
+        "description": "I put my name behind my words because a lot of men & women died for my right to do so. #Nationalist Founder of ProjectPurge",
+        "protected": false,
+        "verified": false,
+        "followers_count": 125205,
+        "friends_count": 9960,
+        "listed_count": 1213,
+        "favourites_count": 73925,
+        "statuses_count": 54674,
+        "created_at": "Mon Jul 04 05:46:49 +0000 2011",
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "B80202",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/796372183719280640/6d4CfvfA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/796372183719280640/6d4CfvfA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328878936/1479022202",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 799058645036236800,
+      "quoted_status_id_str": "799058645036236800",
+      "quoted_status": {
+        "created_at": "Thu Nov 17 01:16:41 +0000 2016",
+        "id": 799058645036236800,
+        "id_str": "799058645036236800",
+        "text": "Jesse Jackson calls for Obama to pardon Hillary Clinton https://t.co/5RUzt7Dvzi",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16589206,
+          "id_str": "16589206",
+          "name": "WikiLeaks",
+          "screen_name": "wikileaks",
+          "location": "Everywhere",
+          "url": "http://wikileaks.org",
+          "description": "We open governments. Contact: https://wikileaks.org/#submit  PGP: A04C 5E09 ED02 B328 03EB 6116 93ED 732E 9231 8DBA\nAlso:\n@WLTaskForce\n@WikiLeaksShop",
+          "protected": false,
+          "verified": true,
+          "followers_count": 4085792,
+          "friends_count": 7607,
+          "listed_count": 55097,
+          "favourites_count": 25,
+          "statuses_count": 44874,
+          "created_at": "Sat Oct 04 06:41:05 +0000 2008",
+          "utc_offset": 0,
+          "time_zone": "Dublin",
+          "geo_enabled": false,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "9AE4E8",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3147857/WL_Hour_Glass.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3147857/WL_Hour_Glass.jpg",
+          "profile_background_tile": true,
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "BDDCAD",
+          "profile_sidebar_fill_color": "DDFFCC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/16589206/1402313050",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2381,
+        "favorite_count": 2116,
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/5RUzt7Dvzi",
+              "expanded_url": "http://www.freep.com/story/news/politics/2016/11/16/jesse-jackson-obama-pardon-hillary-clinton/93979554/",
+              "display_url": "freep.com/story/news/pol…",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+        "full_text": "Why would she need a pardon if she didn't commit a crime @RevJJackson? Unless...unless you all knowingly campaigned for a criminal. https://t.co/X4C4RWWfdk",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/X4C4RWWfdk",
+              "expanded_url": "https://twitter.com/wikileaks/status/799058645036236800",
+              "display_url": "twitter.com/wikileaks/stat…",
+              "indices": [
+                132,
+                155
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "RevJJackson",
+              "name": "Rev Jesse Jackson Sr",
+              "id": 80366372,
+              "id_str": "80366372",
+              "indices": [
+                57,
+                69
+              ]
+            }
+          ],
+          "symbols": []
+        }
+      },
+      "retweet_count": 1567,
+      "favorite_count": 2051,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/iK7O6m9caE",
+            "expanded_url": "https://twitter.com/i/web/status/799067422200315905",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "RevJJackson",
+            "name": "Rev Jesse Jackson Sr",
+            "id": 80366372,
+            "id_str": "80366372",
+            "indices": [
+              57,
+              69
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "quoted_status_id": 799058645036236800,
+    "quoted_status_id_str": "799058645036236800",
+    "quoted_status": {
+      "created_at": "Thu Nov 17 01:16:41 +0000 2016",
+      "id": 799058645036236800,
+      "id_str": "799058645036236800",
+      "text": "Jesse Jackson calls for Obama to pardon Hillary Clinton https://t.co/5RUzt7Dvzi",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16589206,
+        "id_str": "16589206",
+        "name": "WikiLeaks",
+        "screen_name": "wikileaks",
+        "location": "Everywhere",
+        "url": "http://wikileaks.org",
+        "description": "We open governments. Contact: https://wikileaks.org/#submit  PGP: A04C 5E09 ED02 B328 03EB 6116 93ED 732E 9231 8DBA\nAlso:\n@WLTaskForce\n@WikiLeaksShop",
+        "protected": false,
+        "verified": true,
+        "followers_count": 4085792,
+        "friends_count": 7607,
+        "listed_count": 55097,
+        "favourites_count": 25,
+        "statuses_count": 44874,
+        "created_at": "Sat Oct 04 06:41:05 +0000 2008",
+        "utc_offset": 0,
+        "time_zone": "Dublin",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3147857/WL_Hour_Glass.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3147857/WL_Hour_Glass.jpg",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16589206/1402313050",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2381,
+      "favorite_count": 2116,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/5RUzt7Dvzi",
+            "expanded_url": "http://www.freep.com/story/news/politics/2016/11/16/jesse-jackson-obama-pardon-hillary-clinton/93979554/",
+            "display_url": "freep.com/story/news/pol…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "",
+          "expanded_url": null,
+          "indices": [
+            133,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JaredWyand",
+          "name": "Jared Wyand 🇺🇸",
+          "id": 328878936,
+          "id_str": "328878936",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "RevJJackson",
+          "name": "Rev Jesse Jackson Sr",
+          "id": 80366372,
+          "id_str": "80366372",
+          "indices": [
+            73,
+            85
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385460905"
+  },
+  {
+    "created_at": "Thu Nov 17 12:25:09 +0000 2016",
+    "id": 799226870780883000,
+    "id_str": "799226870780882944",
+    "text": "RT @JJFan18: He is NOT doing a blind trust. He is NOT giving up his businesses. And you were all afraid of the conflicts of inte… ",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 37092287,
+      "id_str": "37092287",
+      "name": "isa link",
+      "screen_name": "isalink",
+      "location": "Neverland with MJ...♥ ",
+      "url": null,
+      "description": "It's all for love, L.O.V.E. \r\n(for ♥Michael♥, always & forever !) We must preserve his precious, unique legacy. His music will live ♥FOREVER♥ Bless his ♥ & soul",
+      "protected": false,
+      "verified": false,
+      "followers_count": 779,
+      "friends_count": 3361,
+      "listed_count": 50,
+      "favourites_count": 22423,
+      "statuses_count": 17975,
+      "created_at": "Sat May 02 00:42:09 +0000 2009",
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/83029679/michael_jackson_-_-_bad_..png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/83029679/michael_jackson_-_-_bad_..png",
+      "profile_background_tile": true,
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "E77AEE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/767665353/twitterProfilePhoto_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/767665353/twitterProfilePhoto_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 17 02:43:25 +0000 2016",
+      "id": 799080474157129700,
+      "id_str": "799080474157129728",
+      "text": "He is NOT doing a blind trust. He is NOT giving up his businesses. And you were all afraid of the conflicts of inte… https://t.co/5tcafccn26",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 178063571,
+        "id_str": "178063571",
+        "name": "Jackie #ImWithHer",
+        "screen_name": "JJFan18",
+        "location": "Mount Sinai, NY",
+        "url": null,
+        "description": "#ImWithHer @HillaryClinton for POTUS!! ***Wackiness is all around me & enjoying nearly every minute of it because life's too short not to! ;)",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2111,
+        "friends_count": 356,
+        "listed_count": 113,
+        "favourites_count": 59682,
+        "statuses_count": 95773,
+        "created_at": "Fri Aug 13 19:39:43 +0000 2010",
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "52555C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/206455758/x64ed8c69c5cb618a6894ceb95d50068.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/206455758/x64ed8c69c5cb618a6894ceb95d50068.jpg",
+        "profile_background_tile": false,
+        "profile_link_color": "2144AF",
+        "profile_sidebar_border_color": "000515",
+        "profile_sidebar_fill_color": "061127",
+        "profile_text_color": "B7B7B7",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3093085740/bf6d5fd42f8a605888f7b713083aa67d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3093085740/bf6d5fd42f8a605888f7b713083aa67d_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/178063571/1465926061",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "cd7c0e53b737ba45",
+        "url": "https://api.twitter.com/1.1/geo/id/cd7c0e53b737ba45.json",
+        "place_type": "city",
+        "name": "Miller Place",
+        "full_name": "Miller Place, NY",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -73.02154,
+                40.904061
+              ],
+              [
+                -73.02154,
+                40.966649
+              ],
+              [
+                -72.956704,
+                40.966649
+              ],
+              [
+                -72.956704,
+                40.904061
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "He is NOT doing a blind trust. He is NOT giving up his businesses. And you were all afraid of the conflicts of interest w/Clinton Fnd. 🙄 https://t.co/T0xLv4Dj2R",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 799080465671954400,
+              "id_str": "799080465671954432",
+              "indices": [
+                137,
+                160
+              ],
+              "media_url": "http://pbs.twimg.com/media/CxbncydUoAAg7Pk.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CxbncydUoAAg7Pk.jpg",
+              "url": "https://t.co/T0xLv4Dj2R",
+              "display_url": "pic.twitter.com/T0xLv4Dj2R",
+              "expanded_url": "http://twitter.com/JJFan18/status/799080474157129728/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 799080465671954400,
+              "id_str": "799080465671954432",
+              "indices": [
+                137,
+                160
+              ],
+              "media_url": "http://pbs.twimg.com/media/CxbncydUoAAg7Pk.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CxbncydUoAAg7Pk.jpg",
+              "url": "https://t.co/T0xLv4Dj2R",
+              "display_url": "pic.twitter.com/T0xLv4Dj2R",
+              "expanded_url": "http://twitter.com/JJFan18/status/799080474157129728/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "retweet_count": 235,
+      "favorite_count": 214,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/5tcafccn26",
+            "expanded_url": "https://twitter.com/i/web/status/799080474157129728",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "",
+          "expanded_url": null,
+          "indices": [
+            130,
+            130
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JJFan18",
+          "name": "Jackie #ImWithHer",
+          "id": 178063571,
+          "id_str": "178063571",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385509568"
+  },
+  {
+    "created_at": "Thu Nov 17 12:26:42 +0000 2016",
+    "id": 799227261496897500,
+    "id_str": "799227261496897536",
+    "text": "RT @JaredWyand: I heard he paid $70mil to abort communism, mass Muslim immigration, amnesty, Obamacare, ISIS, NAFTA, TPP, Hillary C… ",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17056659,
+      "id_str": "17056659",
+      "name": "Kathy",
+      "screen_name": "casey2513",
+      "location": "Madison, WI",
+      "url": null,
+      "description": null,
+      "protected": false,
+      "verified": false,
+      "followers_count": 835,
+      "friends_count": 161,
+      "listed_count": 212,
+      "favourites_count": 39494,
+      "statuses_count": 91679,
+      "created_at": "Thu Oct 30 00:56:33 +0000 2008",
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "default_profile": false,
+      "default_profile_image": true,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 17 01:57:47 +0000 2016",
+      "id": 799068988617670700,
+      "id_str": "799068988617670659",
+      "text": "I heard he paid $70mil to abort communism, mass Muslim immigration, amnesty, Obamacare, ISIS, NAFTA, TPP, Hillary C… https://t.co/fZjPqoZeTF",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 328878936,
+        "id_str": "328878936",
+        "name": "Jared Wyand 🇺🇸",
+        "screen_name": "JaredWyand",
+        "location": null,
+        "url": "http://ProjectPurge.com",
+        "description": "I put my name behind my words because a lot of men & women died for my right to do so. #Nationalist Founder of ProjectPurge",
+        "protected": false,
+        "verified": false,
+        "followers_count": 125213,
+        "friends_count": 9960,
+        "listed_count": 1214,
+        "favourites_count": 73925,
+        "statuses_count": 54674,
+        "created_at": "Mon Jul 04 05:46:49 +0000 2011",
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "B80202",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/796372183719280640/6d4CfvfA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/796372183719280640/6d4CfvfA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328878936/1479022202",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 798725810974785500,
+      "quoted_status_id_str": "798725810974785536",
+      "quoted_status": {
+        "created_at": "Wed Nov 16 03:14:07 +0000 2016",
+        "id": 798725810974785500,
+        "id_str": "798725810974785536",
+        "text": "Do you have information about abortions Trump may have paid for? Let us know. https://t.co/OjZNOJPSen https://t.co/NmGIflxmN8",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 15164565,
+          "id_str": "15164565",
+          "name": "Slate",
+          "screen_name": "Slate",
+          "location": null,
+          "url": "http://slate.me/22iwClY",
+          "description": "Politics, culture, technology, business, news, and commentary. Procrastinate better. We just turned 20.",
+          "protected": false,
+          "verified": true,
+          "followers_count": 1631104,
+          "friends_count": 594,
+          "listed_count": 31879,
+          "favourites_count": 3729,
+          "statuses_count": 242496,
+          "created_at": "Thu Jun 19 01:08:29 +0000 2008",
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "670033",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/578119077/wz4rqy2glu2jnibxu6hc.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/578119077/wz4rqy2glu2jnibxu6hc.jpeg",
+          "profile_background_tile": false,
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "87BC44",
+          "profile_sidebar_fill_color": "E0FF92",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/785838392336678913/UP9SKq0X_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/785838392336678913/UP9SKq0X_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/15164565/1473642072",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 146,
+        "favorite_count": 158,
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/OjZNOJPSen",
+              "expanded_url": "http://slate.me/2f20xQF",
+              "display_url": "slate.me/2f20xQF",
+              "indices": [
+                78,
+                101
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 798725808676278300,
+              "id_str": "798725808676278272",
+              "indices": [
+                102,
+                125
+              ],
+              "media_url": "http://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+              "url": "https://t.co/NmGIflxmN8",
+              "display_url": "pic.twitter.com/NmGIflxmN8",
+              "expanded_url": "https://twitter.com/Slate/status/798725810974785536/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1280,
+                  "h": 853,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 798725808676278300,
+              "id_str": "798725808676278272",
+              "indices": [
+                102,
+                125
+              ],
+              "media_url": "http://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+              "url": "https://t.co/NmGIflxmN8",
+              "display_url": "pic.twitter.com/NmGIflxmN8",
+              "expanded_url": "https://twitter.com/Slate/status/798725810974785536/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1280,
+                  "h": 853,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+        "full_text": "I heard he paid $70mil to abort communism, mass Muslim immigration, amnesty, Obamacare, ISIS, NAFTA, TPP, Hillary Clinton, and your control https://t.co/ZrsnmgLR0y",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/ZrsnmgLR0y",
+              "expanded_url": "https://twitter.com/Slate/status/798725810974785536",
+              "display_url": "twitter.com/Slate/status/7…",
+              "indices": [
+                140,
+                163
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "retweet_count": 728,
+      "favorite_count": 1376,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/fZjPqoZeTF",
+            "expanded_url": "https://twitter.com/i/web/status/799068988617670659",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "quoted_status_id": 798725810974785500,
+    "quoted_status_id_str": "798725810974785536",
+    "quoted_status": {
+      "created_at": "Wed Nov 16 03:14:07 +0000 2016",
+      "id": 798725810974785500,
+      "id_str": "798725810974785536",
+      "text": "Do you have information about abortions Trump may have paid for? Let us know. https://t.co/OjZNOJPSen https://t.co/NmGIflxmN8",
+      "display_text_range": [
+        0,
+        101
+      ],
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15164565,
+        "id_str": "15164565",
+        "name": "Slate",
+        "screen_name": "Slate",
+        "location": null,
+        "url": "http://slate.me/22iwClY",
+        "description": "Politics, culture, technology, business, news, and commentary. Procrastinate better. We just turned 20.",
+        "protected": false,
+        "verified": true,
+        "followers_count": 1631104,
+        "friends_count": 594,
+        "listed_count": 31879,
+        "favourites_count": 3729,
+        "statuses_count": 242496,
+        "created_at": "Thu Jun 19 01:08:29 +0000 2008",
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "670033",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/578119077/wz4rqy2glu2jnibxu6hc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/578119077/wz4rqy2glu2jnibxu6hc.jpeg",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/785838392336678913/UP9SKq0X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/785838392336678913/UP9SKq0X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15164565/1473642072",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 146,
+      "favorite_count": 158,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/OjZNOJPSen",
+            "expanded_url": "http://slate.me/2f20xQF",
+            "display_url": "slate.me/2f20xQF",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 798725808676278300,
+            "id_str": "798725808676278272",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+            "url": "https://t.co/NmGIflxmN8",
+            "display_url": "pic.twitter.com/NmGIflxmN8",
+            "expanded_url": "https://twitter.com/Slate/status/798725810974785536/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 853,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 798725808676278300,
+            "id_str": "798725808676278272",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxWk5CMWEAAFTFg.jpg",
+            "url": "https://t.co/NmGIflxmN8",
+            "display_url": "pic.twitter.com/NmGIflxmN8",
+            "expanded_url": "https://twitter.com/Slate/status/798725810974785536/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 853,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "",
+          "expanded_url": null,
+          "indices": [
+            133,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JaredWyand",
+          "name": "Jared Wyand 🇺🇸",
+          "id": 328878936,
+          "id_str": "328878936",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385602722"
+  },
+  {
+    "created_at": "Thu Nov 17 12:29:44 +0000 2016",
+    "id": 799228023560163300,
+    "id_str": "799228023560163328",
+    "text": "Soon I'm submitting 13 more Meteor Impact sites across America &amp; World w Military about to arrest Trump, Obama,Clin… https://t.co/XDtlqPOdR5",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 788195952964300800,
+      "id_str": "788195952964300802",
+      "name": "Gilberti USA Water💦",
+      "screen_name": "gilberti_water",
+      "location": "9438 Daughtrey Road, Sarasota ",
+      "url": "https://plus.google.com/106989527872488772094",
+      "description": "US Blue Gold Pipelines from Meteor Impact Zones-Raises Home Values, 150mil Jobs💦Export pays $50bil/day GNP to US Edu & Healthcare🇺🇸A #Terrorist saves USA🇺🇸",
+      "protected": false,
+      "verified": false,
+      "followers_count": 66,
+      "friends_count": 303,
+      "listed_count": 11,
+      "favourites_count": 1193,
+      "statuses_count": 1883,
+      "created_at": "Tue Oct 18 01:52:13 +0000 2016",
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/788197640039239682/yv0OWrb__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/788197640039239682/yv0OWrb__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/788195952964300802/1476897464",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "Soon I'm submitting 13 more Meteor Impact sites across America &amp; World w Military about to arrest Trump, Obama,Clinton, Bush &amp; Rothschild🌎💦 https://t.co/rxhSEXSpxK",
+      "display_text_range": [
+        0,
+        147
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 799227984825585700,
+            "id_str": "799227984825585665",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxdtniIUkAEovO0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxdtniIUkAEovO0.jpg",
+            "url": "https://t.co/rxhSEXSpxK",
+            "display_url": "pic.twitter.com/rxhSEXSpxK",
+            "expanded_url": "https://twitter.com/gilberti_water/status/799228023560163328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 437,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 463,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 463,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          },
+          {
+            "id": 799227984842371100,
+            "id_str": "799227984842371074",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxdtniMUsAI5jPS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxdtniMUsAI5jPS.jpg",
+            "url": "https://t.co/rxhSEXSpxK",
+            "display_url": "pic.twitter.com/rxhSEXSpxK",
+            "expanded_url": "https://twitter.com/gilberti_water/status/799228023560163328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 780,
+                "h": 564,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 780,
+                "h": 564,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 492,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 799227984825585700,
+            "id_str": "799227984825585665",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxdtniIUkAEovO0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxdtniIUkAEovO0.jpg",
+            "url": "https://t.co/rxhSEXSpxK",
+            "display_url": "pic.twitter.com/rxhSEXSpxK",
+            "expanded_url": "https://twitter.com/gilberti_water/status/799228023560163328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 437,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 463,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 463,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          },
+          {
+            "id": 799227984842371100,
+            "id_str": "799227984842371074",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/CxdtniMUsAI5jPS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CxdtniMUsAI5jPS.jpg",
+            "url": "https://t.co/rxhSEXSpxK",
+            "display_url": "pic.twitter.com/rxhSEXSpxK",
+            "expanded_url": "https://twitter.com/gilberti_water/status/799228023560163328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 780,
+                "h": 564,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 780,
+                "h": 564,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 492,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/XDtlqPOdR5",
+          "expanded_url": "https://twitter.com/i/web/status/799228023560163328",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385784412"
+  },
+  {
+    "created_at": "Thu Nov 17 12:30:39 +0000 2016",
+    "id": 799228252875169800,
+    "id_str": "799228252875169793",
+    "text": "RT @charles_gaba: Whoa. https://t.co/RI3BVU6GGW",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 780269431,
+      "id_str": "780269431",
+      "name": "Misti Jackson",
+      "screen_name": "mdjacksondallas",
+      "location": "Dallas, TX",
+      "url": null,
+      "description": "Activist laughing in the face of adversity for 56 years! Love Barack Obama! Turn Texas Blue! Love Clinton Kaine! Animal lover! Humanist. GO DALLAS COWBOYS!",
+      "protected": false,
+      "verified": false,
+      "followers_count": 8641,
+      "friends_count": 9076,
+      "listed_count": 392,
+      "favourites_count": 214313,
+      "statuses_count": 354561,
+      "created_at": "Sat Aug 25 12:58:30 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/797977152041943044/N-wleIMA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/797977152041943044/N-wleIMA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/780269431/1414935003",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 17 12:29:52 +0000 2016",
+      "id": 799228056372150300,
+      "id_str": "799228056372150272",
+      "text": "Whoa. https://t.co/RI3BVU6GGW",
+      "display_text_range": [
+        0,
+        5
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25911963,
+        "id_str": "25911963",
+        "name": "Charles Gaba",
+        "screen_name": "charles_gaba",
+        "location": "Bloomfield Hills, MI",
+        "url": "https://www.charlesgaba.com",
+        "description": "Web Developer at http://Brainwrap.com Obamacare Tracker at http://ACASignups.net",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7557,
+        "friends_count": 1043,
+        "listed_count": 340,
+        "favourites_count": 88642,
+        "statuses_count": 115866,
+        "created_at": "Mon Mar 23 00:05:23 +0000 2009",
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723145771663511552/rfElo8U0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723145771663511552/rfElo8U0_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 799174945360093200,
+      "quoted_status_id_str": "799174945360093185",
+      "quoted_status": {
+        "created_at": "Thu Nov 17 08:58:49 +0000 2016",
+        "id": 799174945360093200,
+        "id_str": "799174945360093185",
+        "text": "Lewandowski says Comey informed him 2 days before sending first letter. Proof of overt FBI collusion w/ Team Trump.… https://t.co/M7TKDIvLly",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 290319629,
+          "id_str": "290319629",
+          "name": "Franksgiving",
+          "screen_name": "goddamnedfrank",
+          "location": "Simi Goddamned Valley, CA  ",
+          "url": null,
+          "description": "Master of Science at the Intersection of Light, Matter & Time",
+          "protected": false,
+          "verified": false,
+          "followers_count": 1758,
+          "friends_count": 298,
+          "listed_count": 41,
+          "favourites_count": 4265,
+          "statuses_count": 8880,
+          "created_at": "Sat Apr 30 02:58:08 +0000 2011",
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_link_color": "ABB8C2",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/795036819876245504/-dvLdTtb_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/795036819876245504/-dvLdTtb_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/290319629/1454736736",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+          "full_text": "Lewandowski says Comey informed him 2 days before sending first letter. Proof of overt FBI collusion w/ Team Trump. https://t.co/KJRLfyJb3h https://t.co/MihQKiikrt",
+          "display_text_range": [
+            0,
+            139
+          ],
+          "entities": {
+            "hashtags": [],
+            "urls": [
+              {
+                "url": "https://t.co/KJRLfyJb3h",
+                "expanded_url": "http://www.telegraph.co.uk/news/2016/11/17/fbis-decision-to-reopen-clinton-email-probe-enabled-donald-trump/",
+                "display_url": "telegraph.co.uk/news/2016/11/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+              {
+                "id": 799174126304784400,
+                "id_str": "799174126304784384",
+                "indices": [
+                  140,
+                  163
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+                "url": "https://t.co/MihQKiikrt",
+                "display_url": "pic.twitter.com/MihQKiikrt",
+                "expanded_url": "https://twitter.com/goddamnedfrank/status/799174945360093185/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 306,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1152,
+                    "h": 518,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1152,
+                    "h": 518,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 799174126304784400,
+                "id_str": "799174126304784384",
+                "indices": [
+                  140,
+                  163
+                ],
+                "media_url": "http://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+                "url": "https://t.co/MihQKiikrt",
+                "display_url": "pic.twitter.com/MihQKiikrt",
+                "expanded_url": "https://twitter.com/goddamnedfrank/status/799174945360093185/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 306,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1152,
+                    "h": 518,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1152,
+                    "h": 518,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "retweet_count": 40,
+        "favorite_count": 21,
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/M7TKDIvLly",
+              "expanded_url": "https://twitter.com/i/web/status/799174945360093185",
+              "display_url": "twitter.com/i/web/status/7…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/RI3BVU6GGW",
+            "expanded_url": "https://twitter.com/goddamnedfrank/status/799174945360093185",
+            "display_url": "twitter.com/goddamnedfrank…",
+            "indices": [
+              6,
+              29
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "quoted_status_id": 799174945360093200,
+    "quoted_status_id_str": "799174945360093185",
+    "quoted_status": {
+      "created_at": "Thu Nov 17 08:58:49 +0000 2016",
+      "id": 799174945360093200,
+      "id_str": "799174945360093185",
+      "text": "Lewandowski says Comey informed him 2 days before sending first letter. Proof of overt FBI collusion w/ Team Trump.… https://t.co/M7TKDIvLly",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 290319629,
+        "id_str": "290319629",
+        "name": "Franksgiving",
+        "screen_name": "goddamnedfrank",
+        "location": "Simi Goddamned Valley, CA  ",
+        "url": null,
+        "description": "Master of Science at the Intersection of Light, Matter & Time",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1758,
+        "friends_count": 298,
+        "listed_count": 41,
+        "favourites_count": 4265,
+        "statuses_count": 8880,
+        "created_at": "Sat Apr 30 02:58:08 +0000 2011",
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/795036819876245504/-dvLdTtb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/795036819876245504/-dvLdTtb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/290319629/1454736736",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Lewandowski says Comey informed him 2 days before sending first letter. Proof of overt FBI collusion w/ Team Trump. https://t.co/KJRLfyJb3h https://t.co/MihQKiikrt",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/KJRLfyJb3h",
+              "expanded_url": "http://www.telegraph.co.uk/news/2016/11/17/fbis-decision-to-reopen-clinton-email-probe-enabled-donald-trump/",
+              "display_url": "telegraph.co.uk/news/2016/11/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 799174126304784400,
+              "id_str": "799174126304784384",
+              "indices": [
+                140,
+                163
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+              "url": "https://t.co/MihQKiikrt",
+              "display_url": "pic.twitter.com/MihQKiikrt",
+              "expanded_url": "https://twitter.com/goddamnedfrank/status/799174945360093185/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 306,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1152,
+                  "h": 518,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1152,
+                  "h": 518,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 799174126304784400,
+              "id_str": "799174126304784384",
+              "indices": [
+                140,
+                163
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cxc8ojgUcAAbgww.jpg",
+              "url": "https://t.co/MihQKiikrt",
+              "display_url": "pic.twitter.com/MihQKiikrt",
+              "expanded_url": "https://twitter.com/goddamnedfrank/status/799174945360093185/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 306,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1152,
+                  "h": 518,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1152,
+                  "h": 518,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "retweet_count": 40,
+      "favorite_count": 21,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/M7TKDIvLly",
+            "expanded_url": "https://twitter.com/i/web/status/799174945360093185",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/RI3BVU6GGW",
+          "expanded_url": "https://twitter.com/goddamnedfrank/status/799174945360093185",
+          "display_url": "twitter.com/goddamnedfrank…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "charles_gaba",
+          "name": "Charles Gaba",
+          "id": 25911963,
+          "id_str": "25911963",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1479385839085"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "tweet-matches",
+  "version": "1.0.0",
+  "description": "Check if a tweet matches a twitter filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgarrison/tweet-matches.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": {
+    "name": "Philip Garrison",
+    "email": "garrison.philip.m@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgarrison/tweet-matches/issues"
+  },
+  "homepage": "https://github.com/pgarrison/tweet-matches#readme",
+  "devDependencies": {
+    "twit": "^2.2.5"
+  }
+}

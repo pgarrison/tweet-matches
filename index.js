@@ -8,7 +8,8 @@ function tweetMatches(tweet, query) {
   return query.some(function(phrase) {
     // phrase matches if all of its terms match
     return phrase.every(function(term) {
-      // term matches if it is a substring of any of the fields (I think)
+      if (term === '') return false;
+      // non-empty term matches if it is a substring of any of the fields
       return fields.some(function(tweetField) {
         return tweetField.indexOf(term) !== -1;
       });

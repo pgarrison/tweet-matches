@@ -19,12 +19,18 @@ function tweetMatches(tweet, query) {
 
 tweetMatches.compile = function(rawQuery) {
   // ',' means OR
-  return rawQuery.split(',').map(function(phrase) {
+  var phrases = rawQuery.split(',').map(function(phrase) {
     // ' ' means AND
-    return phrase.split(' ').map(function(term) {
+    var terms = phrase.split(' ').map(function(term) {
       // everything is case insensitive
       return term.toLowerCase();
     });
+    return terms.filter(function(term) {
+      return term !== '';
+    });
+  });
+  return phrases.filter(function(phrase) {
+    return phrase.length > 0;
   });
 };
 
